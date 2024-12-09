@@ -1,0 +1,23 @@
+Example 1:
+Input: str1 = "ABCABC", str2 = "ABC"
+Output: "ABC"
+Explanation: The greatest common divisor of the strings is "ABC", as both strings can be constructed by repeating "ABC".
+str1: ABC ABC
+str2: ABC
+GCD: ABC
+
+Example 2:
+Input: str1 = "ABABAB", str2 = "ABAB"
+Output: "AB"
+Explanation: The greatest common divisor of the strings is "AB", as both strings can be constructed by repeating "AB".
+str1: AB AB AB
+str2: AB AB
+GCD: AB
+
+Example 3:
+Input: str1 = "LEET", str2 = "CODE"
+Output: ""
+Explanation: The two strings have no common divisor since they cannot be constructed by repeating the same substring.
+str1: LEET
+str2: CODE
+GCD: ""

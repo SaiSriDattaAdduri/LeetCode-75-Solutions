@@ -12,3 +12,4 @@ This repository contains my solutions to the LeetCode 75 questions.
 | 2   | Greatest Common Divisor of Strings - 1071  | Easy       | [Solution](Array-String/Greatest%20Common%20Divisor%20of%20Strings%20-%201071/) |
 | 3   | Kids With the Greatest Number of Candies - 1431 | Easy       | [Solution](Array-String/Kids%20With%20the%20Greatest%20Number%20of%20Candies%20-%201431/) |
 | 4   | Can Place Flowers - 605                    | Easy       | [Solution](Array-String/Can%20Place%20Flowers%20-%20605/) |
+| 5   | Reverse Vowels of a String - 345           | Easy       | [Solution](Array-String/Reverse%20Vowels%20of%20a%20String%20-%20345/) |

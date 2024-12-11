@@ -1,0 +1,13 @@
+Example 1:
+Input: s = "IceCreAm"
+Output: "AceCreIm"
+Explanation: The vowels in the string are ['I', 'e', 'e', 'A']. After reversing the vowels, the string becomes "AceCreIm".
+Original: I c e C r e A m
+Reversed: A c e C r e I m
+
+Example 2:
+Input: s = "leetcode"
+Output: "leotcede"
+Explanation: The vowels in the string are ['e', 'e', 'o']. After reversing the vowels, the string becomes "leotcede".
+Original: l e e t c o d e
+Reversed: l e o t c e d e

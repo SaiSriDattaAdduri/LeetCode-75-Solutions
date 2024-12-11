@@ -1,0 +1,15 @@
+Example 1:
+Input: flowerbed = [1,0,0,0,1], n = 1
+Output: true
+Explanation: 
+- The flowerbed initially looks like: [1, 0, 0, 0, 1].
+- One flower can be planted in the second position (index 2), making the flowerbed: [1, 0, 1, 0, 1].
+- Since we were able to plant 1 flower, the output is true.
+
+Example 2:
+Input: flowerbed = [1,0,0,0,1], n = 2
+Output: false
+Explanation: 
+- The flowerbed initially looks like: [1, 0, 0, 0, 1].
+- Only one flower can be planted in the second position (index 2), making the flowerbed: [1, 0, 1, 0, 1].
+- Since we need to plant 2 flowers but only 1 can be planted, the output is false.

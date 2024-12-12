@@ -1,0 +1,22 @@
+Example 1:
+Input: s = "the sky is blue"
+Output: "blue is sky the"
+Explanation: The words are reversed as follows:
+Original: "the sky is blue"
+Reversed: "blue is sky the"
+
+Example 2:
+Input: s = "  hello world  "
+Output: "world hello"
+Explanation: Leading and trailing spaces are removed. Words are reversed as follows:
+Original: "  hello world  "
+Trimmed: "hello world"
+Reversed: "world hello"
+
+Example 3:
+Input: s = "a good   example"
+Output: "example good a"
+Explanation: Multiple spaces are reduced to a single space. Words are reversed as follows:
+Original: "a good   example"
+Trimmed: "a good example"
+Reversed: "example good a"

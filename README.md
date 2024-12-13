@@ -15,3 +15,5 @@ This repository contains my solutions to the LeetCode 75 questions.
 | 5   | Reverse Vowels of a String - 345           | Easy       | [Solution](Array-String/Reverse%20Vowels%20of%20a%20String%20-%20345/) |
 | 6   | Reverse Words in a String - 151            | Medium     | [Solution](Array-String/Reverse%20Words%20in%20a%20String%20-%20151/) |
 | 7   | Product of Array Except Self - 238         | Medium     | [Solution](Array-String/Product%20of%20Array%20Except%20Self%20-%20238/) |
+| 8   | Increasing Triplet Subsequence - 334       | Medium     | [Solution](Array-String/Increasing%20Triplet%20Subsequence%20-%20334/) |
+

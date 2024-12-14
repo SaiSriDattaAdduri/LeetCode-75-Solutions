@@ -18,3 +18,11 @@ This repository contains my solutions to the LeetCode 75 questions.
 | 8   | Increasing Triplet Subsequence - 334       | Medium     | [Solution](Array-String/Increasing%20Triplet%20Subsequence%20-%20334/) |
 | 9   | String Compression - 443       | Medium     | [Solution](Array-String/String%20Compression%20-%20443/) |
 
+---
+
+## Two Pointers
+
+| #   | Question                                    | Difficulty | Solution Link                                                 |
+| --- | ------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 1   | Move Zeros - 283           | Easy       | [Solution](Two%20Pointers/Move%20Zeroes%20-%20283/) |
+

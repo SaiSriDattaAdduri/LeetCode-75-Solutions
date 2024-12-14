@@ -25,4 +25,5 @@ This repository contains my solutions to the LeetCode 75 questions.
 | #   | Question                                    | Difficulty | Solution Link                                                 |
 | --- | ------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | 1   | Move Zeros - 283           | Easy       | [Solution](Two%20Pointers/Move%20Zeroes%20-%20283/) |
+| 2   | Is Subsequence - 392           | Easy       | [Solution](Is%20Subsequence%20-%20392/) |
 
